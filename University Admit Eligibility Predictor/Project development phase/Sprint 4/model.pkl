@@ -1,0 +1,20 @@
+€csklearn.linear_model._base
+LinearRegression
+q )q}q(X
+   fit_interceptqˆX	   normalizeq‰X   copy_XqˆX   n_jobsqNX   positiveq ‰X   n_features_in_qKX   coef_q	cnumpy.core.multiarray
+_reconstruct
+q
+cnumpy
+ndarray
+q
+K …qCbq
+‡qRq(KK…qcnumpy
+dtype
+qX   f8q‰ˆ‡qRq(KX   <qNNNJÿÿÿÿJÿÿÿÿK tqb‰C0—BÏX¨`?ˆâ+µ+<h?®áœ„N?ê‹IĞ¸p¿²üÂùÆv–?Çÿã.;H¾?qtqbX	   _residuesqcnumpy.core.multiarray
+scalar
+qhC’Kt_Ÿ}ô?q†qRqX   rank_qKX	   singular_qh
+h
+K …q h
+‡q!Rq"(KK…q#h‰C0fš´ØOl@U—pŞÅK@ûÛlÂHÉ3@ 0k¸%$@¶­aê>!@
+túÈMd@q$tq%bX
+   intercept_q&hhCòUòy%sõ¿q'†q(Rq)X   _sklearn_versionq*X   0.24.2q+ub.
